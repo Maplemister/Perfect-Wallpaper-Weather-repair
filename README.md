@@ -4,7 +4,7 @@ Perfect Wallpaper-完美壁纸【落樱粒子+多风格动态音频响应+自定
 
 只修改了time.js文件中的天气相关，
 
-现在调用的接口是wttr.in 
+现在调用的接口是开源的wttr.in 
 
 天气项目地址 https://github.com/chubin/wttr.in
 
